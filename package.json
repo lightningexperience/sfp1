@@ -1,0 +1,15 @@
+{
+  "name": "sfpersonalization-demo",
+  "version": "1.0.0",
+  "description": "Salesforce Personalization Demo Site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
