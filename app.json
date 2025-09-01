@@ -1,0 +1,12 @@
+{
+  "name": "sfp1",
+  "description": "Express static site on Heroku",
+  "repository": "https://github.com/lightningexperience/sfp1",
+  "image": "heroku/nodejs",
+  "env": {
+    "NODE_ENV": {
+      "description": "Node environment",
+      "value": "production"
+    }
+  }
+}
